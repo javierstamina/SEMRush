@@ -1,4 +1,4 @@
-### Hola 👋, estos son algunos certificacdos que voy adquiriendo en SemRush
+### Hola 👋, estos son algunos certificados que voy adquiriendo en SemRush
 <p>
 <a href="https://twitter.com/Javier_Argo" target="_blank">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />

@@ -14,3 +14,25 @@
 <p/>
 
 <br/>
+
+<div class="gallery-certificados-javier-arteaga" style="display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;">
+   
+  <a href="https://github.com/javierstamina/SEMRush/blob/master/Certificate-examen-de-condiciones-del-programa-de-afiliados.png" target="_blank">
+    <img src="https://github.com/javierstamina/SEMRush/blob/master/Certificate-examen-de-condiciones-del-programa-de-afiliados.png" alt="Descripción de la imagen 1" style="width: 250px;
+    height: auto;">
+  </a>
+   
+  <a href="https://github.com/javierstamina/SEMRush/blob/master/Certificate-examen-de-principios-fundamentales-de-seo.png" target="_blank">
+    <img src="https://github.com/javierstamina/SEMRush/blob/master/Certificate-examen-de-principios-fundamentales-de-seo.png" alt="Descripción de la imagen 2" style="width: 250px;
+    height: auto;">
+  </a>
+    <a href="https://github.com/javierstamina/SEMRush/blob/master/Certificate-seo-toolkit-exam.png" target="_blank">
+    <img src="https://github.com/javierstamina/SEMRush/blob/master/Certificate-seo-toolkit-exam.png" alt="Descripción de la imagen 2" style="width: 250px;
+    height: auto;">
+  </a>
+   
+   
+  <!-- Agrega más imágenes aquí -->
+</div>
